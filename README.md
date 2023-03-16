@@ -16,6 +16,8 @@ My challenge is to build out this FAQ accordion card and get it looking as close
 
 I can use any tools you like to help you complete the challenge. So if I've got something I'd like to practice, I should feel free to give it a go.
 
+# LIVE SITE: ➡️https://pettik-faq-accordion-card-main.netlify.app/ ⬅️ 
+
 ### Screenshot
 ## MOBILE PREVIEW 📲⬇️
 <img src="design\preview-mobile.png" alt="mobile preview">
